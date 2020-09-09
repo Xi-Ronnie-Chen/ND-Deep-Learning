@@ -1,4 +1,7 @@
 **/.ipynb_checkpoints
 **/__pycache__
+**/.udacity-pa
 **/examples
+*.json
 *.html
+*.zip
