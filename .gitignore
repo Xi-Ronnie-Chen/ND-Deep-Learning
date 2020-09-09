@@ -5,3 +5,6 @@
 *.json
 *.html
 *.zip
+
+# Dataset for Project 1
+projects/p1-bikesharing/Bike-Sharing-Dataset
