@@ -3,6 +3,7 @@
 **/.udacity-pa
 **/__pycache__
 **/examples
+**/data
 *.json
 *.html
 *.zip
