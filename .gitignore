@@ -12,3 +12,7 @@
 
 # Dataset for Lab 6
 labs/06-transfer-learning/flower_photos
+
+# Dataset for Project 2
+projects/2-dog-classification/lfw
+projects/2-dog-classification/dogImages
