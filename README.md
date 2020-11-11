@@ -9,3 +9,4 @@ Course Materials for Udacity Deep Learning Nanodegree
 
 1. Daily Bike Rental Ridership Prediction (using MLP)
 2. Dog Breed Classification (using CNN and Transfer Learning)
+3. TV Script Generation (using LSTM)
