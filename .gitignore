@@ -15,6 +15,9 @@
 # Dataset for Lab 6
 labs/06-transfer-learning/flower_photos
 
+# Dataset for Lab 19
+labs/19-cycle-gan/summer2winter_yosemite
+
 # Dataset for Project 2
 projects/2-dog-classification/lfw
 projects/2-dog-classification/dogImages
