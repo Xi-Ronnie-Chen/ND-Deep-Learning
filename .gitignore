@@ -24,3 +24,6 @@ projects/2-dog-classification/dogImages
 
 # Dataset for Project 3
 projects/3-tv-scripts-generation/preprocess.p
+
+# Dataset for Project 4
+projects/4-face-generation/processed_celeba_small
