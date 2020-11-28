@@ -7,8 +7,8 @@ Course Materials for Udacity Deep Learning Nanodegree
 
 ## Projects
 
-1. Daily Bike Rental Ridership Prediction (using MLP)
-2. Dog Breed Classification (using CNN and Transfer Learning)
-3. TV Script Generation (using LSTM)
-4. Face Generation (using DCGAN)
-5. Sentiment Analysis (using RNN)
+1. Daily Bike Rental Ridership Prediction (MLP)
+2. Dog Breed Classification (CNN)
+3. TV Script Generation (LSTM)
+4. Face Generation (DCGAN)
+5. Sentiment Analysis (RNN)
