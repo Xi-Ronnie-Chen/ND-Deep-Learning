@@ -11,4 +11,4 @@ Course Materials for Udacity Deep Learning Nanodegree
 2. Dog Breed Classification (CNN)
 3. TV Script Generation (LSTM)
 4. Face Generation (DCGAN)
-5. Sentiment Analysis (RNN)
+5. Sentiment Analysis (LSTM)
